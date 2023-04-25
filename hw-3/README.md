@@ -12,8 +12,8 @@
 в которой можно хранить значения под 512 МБ
 
 ```
-AVG time writing: 7.195508432388306
-AVG time reading: 2.4811206817626954
+AVG time writing: 7.195508432388306 sec.
+AVG time reading: 2.4811206817626954 sec.
 ```
 
 ## HSET
@@ -22,8 +22,8 @@ AVG time reading: 2.4811206817626954
 
 
 ```
-AVG time writing: 6.086856412887573
-AVG time reading: 2.469229507446289
+AVG time writing: 6.086856412887573 sec.
+AVG time reading: 2.469229507446289 sec.
 ```
 
 ## ZADD
@@ -33,8 +33,8 @@ AVG time reading: 2.469229507446289
 
 
 ```
-AVG time writing: 3.2707145690917967
-AVG time reading: 0.009859037399291993
+AVG time writing: 3.2707145690917967 sec.
+AVG time reading: 0.009859037399291993 sec.
 ```
 
 
@@ -43,6 +43,6 @@ AVG time reading: 0.009859037399291993
 Классическая структура данных - список. 
 
 ```
-AVG time writing: 8.940437984466552
-AVG time reading: 0.0008167743682861329
+AVG time writing: 8.940437984466552 sec.
+AVG time reading: 0.0008167743682861329 sec.
 ```
